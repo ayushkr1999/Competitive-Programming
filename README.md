@@ -1,10 +1,10 @@
 # Competitive-Programming
 Just some useful things for Competitive Programming
 
-### Important Topics
-* [Arrays](src/README.md#Arrays)
-* [Binary and Ternary Search](src/README.md#BinaryandTernarySearch)
-* [Dynamic Programming](src/README.md#DynamicProgramming)
+## Important Topics
+* [Arrays](Competitive-Programming/README.md#Arrays)
+* [Binary and Ternary Search](https://github.com/ayushkr1999/Competitive-Programming/edit/master/README.md#BinaryandTernarySearch)
+* [Dynamic Programming](ayushkr1999/README.md#DynamicProgramming)
 * [Flow](src/README.md#Flow)
 * [Game Theory](src/README.md#GameTheory)
 * [Graphs](src/README.md#Graphs)
@@ -21,22 +21,23 @@ Just some useful things for Competitive Programming
 # Arrays
 
 
-# Binary and Ternary Search
+
+## Binary and Ternary Search
 
 
-# Dynamic Programming
+## Dynamic Programming
 
-# Flow
+## Flow
 
-# Game Theory
+## Game Theory
 
-# Graphs
+## Graphs
 
-# Greedy
+## Greedy
 
-# Maths
+## Maths
 
-# Matrix Exponentiation
+## Matrix Exponentiation
 
 # Miscellaneous
 
