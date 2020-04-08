@@ -2,11 +2,7 @@
 #include <bits/stdc++.h>
 #define lli long long int
 using namespace std;
-lli fact(lli n){
- 
-	return n*(n+1)/2;
- 
-}
+
 int main() {
 // your code goes here
 #ifndef ONLINE_JUDGE
