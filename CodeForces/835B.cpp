@@ -37,12 +37,6 @@ freopen("output.txt","w",stdout);
 	// lli t,m,o,e,a,k,b,l,r;
 	lli x,y,z,k,a,b,c,d,m;
 	lli n;
-	// lli f=0;
-	
-		
-	// w(t){
-		// cin>>n;
-		// cout<<n
 	
 	cin>>k;
 
@@ -56,12 +50,10 @@ freopen("output.txt","w",stdout);
 		v1.pb(9-(s[i]-48));
 		sum+=((s[i]-48));
 	}
-	// cout<<sum<<endl;
+	
 	sort(st(v1));
 	reverse(st(v1));
-	// for(auto x:v1){
-	// 	cout<<x<<" ";
-	// }
+	
 	lli f=0;
 	for(lli i =0;i<n+1;i++){
 		if(sum>=k){
@@ -72,12 +64,6 @@ freopen("output.txt","w",stdout);
 	}
 	cout<<f;
 
-
-
-		// cout<<endl;
-		
-
-	// }
 
 	return 0;
 }
