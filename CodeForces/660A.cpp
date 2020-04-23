@@ -55,7 +55,7 @@ freopen("output.txt","w",stdout);
 		input(v2,n)
 		for(lli i =0;i<n;i++){
 			v3.pb(v2[i]);
-			if(i+1<n && gcd(min(v2[i],v2[i+1]),max(v2[i],v2[i+1]))>1){
+			if(i+1<n && gcd(v2[i],v2[i+1])>1){
 				//insert 1 at theat index
 				c++;
 				v3.pb(1);
