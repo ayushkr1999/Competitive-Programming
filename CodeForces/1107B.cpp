@@ -6,7 +6,7 @@ using namespace std;
 // #define N 1000000000+5
 #define ll long long
 #define ld long double
-#define lli int	
+#define lli long long	
 #define pb push_back
 #define INF 10000000000
 #define mod 1000000007
